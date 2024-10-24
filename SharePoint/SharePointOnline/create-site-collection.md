@@ -74,7 +74,7 @@ We recommend using the new site templates for all your new sites. However, if yo
     
     ![The Create button on the Active sites page.](media/create-site-button.png)
   
-2. At the bottom of the panel, select **Brose more sites**.
+2. At the bottom of the panel, select **Browse more sites**.
 
     ![Image of the site creation panel with admin controls highlighted.](media/new-site-admin-bottom.png)
 
